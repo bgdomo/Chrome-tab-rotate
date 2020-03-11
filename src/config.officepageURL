@@ -11,7 +11,7 @@
     },
    {
       "url": "https://domo.domo.com/api/content/v1/doc-previews/1240273/1256233/PNG?page=1&width=1600",
-      "duration": 10,
+      "duration": 15,
       "tabReloadIntervalSeconds": 300
     },
     {
@@ -21,7 +21,7 @@
     },
    {
      "url": "https://domo.domo.com/api/content/v1/doc-previews/1240273/1256233/PNG?page=2&width=1600",
-      "duration": 10,
+      "duration": 15,
       "tabReloadIntervalSeconds": 500
     }
 ,
@@ -37,7 +37,7 @@
     },
    {
       "url": "https://domo.domo.com/api/content/v1/doc-previews/1240273/1256233/PNG?page=1&width=1600",
-      "duration": 10,
+      "duration": 15,
       "tabReloadIntervalSeconds": 500
     }
 

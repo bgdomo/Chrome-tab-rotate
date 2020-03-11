@@ -1,0 +1,46 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": false,
+  "autoStart": false,
+  "lazyLoadTabs": false,
+  "websites": [
+    {
+      "url": "https://domo.domo.com/page/1227842014",
+      "duration": 100,
+      "tabReloadIntervalSeconds": 500
+    },
+   {
+      "url": "https://domo.domo.com/api/content/v1/doc-previews/1240273/1256233/PNG?page=1&width=1600",
+      "duration": 50,
+      "tabReloadIntervalSeconds": 500
+    },
+    {
+      "url": "https://domo.domo.com/page/600071224",
+      "duration": 100,
+      "tabReloadIntervalSeconds": 500
+    },
+   {
+     "url": "https://domo.domo.com/api/content/v1/doc-previews/1240273/1256233/PNG?page=2&width=1600",
+      "duration": 50,
+      "tabReloadIntervalSeconds": 500
+    }
+,
+    {
+      "url": "https://domo.domo.com/page/959785512",
+      "duration": 100,
+      "tabReloadIntervalSeconds": 500
+    },
+    {
+      "url": "https://domo.domo.com/page/1391984860",
+      "duration": 100,
+      "tabReloadIntervalSeconds": 500
+    },
+   {
+      "url": "https://domo.domo.com/api/content/v1/doc-previews/1240273/1256233/PNG?page=1&width=1600",
+      "duration": 50,
+      "tabReloadIntervalSeconds": 500
+    }
+
+
+  ]
+}

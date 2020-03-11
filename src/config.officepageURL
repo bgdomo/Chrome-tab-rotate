@@ -10,7 +10,7 @@
       "tabReloadIntervalSeconds": 300
     },
    {
-      "url": "https://domo.domo.com/api/content/v1/doc-previews/1240273/1256233/PNG?page=1&width=1600",
+      "url": "https://domo.domo.com/api/content/v1/doc-previews/1240273/1256233/PNG?page=1&width=1800",
       "duration": 20,
       "tabReloadIntervalSeconds": 1000
     },
@@ -20,7 +20,7 @@
       "tabReloadIntervalSeconds": 300
     },
    {
-     "url": "https://domo.domo.com/api/content/v1/doc-previews/1240273/1256233/PNG?page=2&width=1600",
+     "url": "https://domo.domo.com/api/content/v1/doc-previews/1240273/1256233/PNG?page=2&width=1800",
       "duration": 20,
       "tabReloadIntervalSeconds": 1000
     }
@@ -36,7 +36,7 @@
       "tabReloadIntervalSeconds": 300
     },
    {
-      "url": "https://domo.domo.com/api/content/v1/doc-previews/1240273/1256233/PNG?page=1&width=1600",
+      "url": "https://domo.domo.com/api/content/v1/doc-previews/1240273/1256233/PNG?page=1&width=1800",
       "duration": 20,
       "tabReloadIntervalSeconds": 1000
     }
